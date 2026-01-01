@@ -23,7 +23,7 @@ Parameters:
     Default: 10.192.11.0/24
 
   S3BucketForCourse: 
-    Description: Please enter the name for your S3 bucket. This will used throughout the "course" and must be unique globablly within AWS. 
+    Description: Please enter the name for your S3 bucket. This will be used throughout the "course" and must be unique globablly within AWS. 
     Type: String 
 
 Resources:
